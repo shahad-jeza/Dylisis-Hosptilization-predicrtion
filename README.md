@@ -20,6 +20,9 @@ The dataset includes:
 - **Hospitalization**: Target variable (0 = no, 1 = yes).
 
 ## How to Use
+
 1. **Install dependencies**:
    ```bash
    pip install numpy pandas scikit-learn tensorflow
+
+<img width="1439" alt="Screenshot 1445-11-19 at 7 25 45 PM" src="https://github.com/user-attachments/assets/e6f6f760-d8be-48be-96fd-922e40cb33de">
